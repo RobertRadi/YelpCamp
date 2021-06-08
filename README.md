@@ -1,4 +1,4 @@
-��# YelpCamp
+## YelpCamp
 YelpCamp is a responsive web application where users can share their experiences about campgrounds all around the world.
 The course(The Web Developer Bootcamp by Colt Steele) taught me a wide range of technologies in order to create a basic responsive website:
 
